@@ -1,0 +1,22 @@
+# NGC credentials
+.env
+!.env.example
+
+# Extracted NGC packages
+nucleus-stack-*/
+upstream/
+
+# Temporary files
+secrets-temp/
+*.tmp
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.claude/
