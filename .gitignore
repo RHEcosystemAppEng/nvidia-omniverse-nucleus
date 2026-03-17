@@ -19,3 +19,4 @@ secrets-temp/
 .vscode/
 .idea/
 *.iml
+.claude/
