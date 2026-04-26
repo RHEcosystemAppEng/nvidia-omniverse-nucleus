@@ -9,7 +9,6 @@ NVIDIA Omniverse Nucleus is designed for Docker Compose. The DIND approach:
 - ✅ Single LoadBalancer (cost-effective)
 - ✅ Easy updates - drop in new NGC packages
 
-See [DEPLOYMENT-SUMMARY.md](DEPLOYMENT-SUMMARY.md) for why native Kubernetes doesn't work.
 
 ## Quick Start
 
